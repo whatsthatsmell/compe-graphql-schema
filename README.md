@@ -1,5 +1,8 @@
 ## Neovim compe GraphQL schema completion source
 
+<img width="734" alt="repo-screenshot" src="https://user-images.githubusercontent.com/8049061/124994474-8674dd80-e00b-11eb-95fd-133c97177d51.png">
+
+
 **Code will be pushed when video is published**
 
 - Link to YouTube video: https://www.youtube.com/c/CodeSmell
